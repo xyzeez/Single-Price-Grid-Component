@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL here](https://your-solution-url.com)
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/single-price-grid-component-y9Ia7univF)
 - Live Site URL: [URL here](https://femc-single-price-grid-component.netlify.app/)
 
 ## My process
